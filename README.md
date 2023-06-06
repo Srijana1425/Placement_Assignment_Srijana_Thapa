@@ -2,4 +2,4 @@
 ## HTML<br>
 **Q4** Resume Using HTML only<br>
 **Code** [Link](https://github.com/Srijana1425/Placement_Assignment_Srijana_Thapa/tree/main/html/resume)<br>
-**Output** [Link]()<br><br>
+**Output** [Link](http://127.0.0.1:5500/resume/index.html)<br><br>
