@@ -22,7 +22,7 @@
 **Output** [Link](http://127.0.0.1:5500/Periodic%20Table/index.html)<br><br>
 
 **Q9**layout using grid or flex <br>
-**Code** [Link](https://github.com/Srijana1425/Placement_Assignment_Srijana_Thapa/blob/main/html/resume/index.html)<br>
+**Code** [Link](https://github.com/Srijana1425/Placement_Assignment_Srijana_Thapa/blob/main/css/layout/index.html)<br>
 **Output** [Link](http://127.0.0.1:5500/layout/index.html)<br><br>
 
 **Q10** Build Responsive Layout both desktop and mobile and Tablet<br>
