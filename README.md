@@ -30,5 +30,5 @@
 **Output** [Link](http://127.0.0.1:5500/Responsive%20Layout/index.html)<br><br>
 
 **Q11**Build Complete Homepage of Ineuronwith responsiveness.<br>
-**Code** [Link](https://github.com/Srijana1425/Placement_Assignment_Srijana_Thapa/blob/main/html/resume/index.html)<br>
+**Code** [Link](https://github.com/Srijana1425/Placement_Assignment_Srijana_Thapa/tree/main/css/ineuron%20website)<br>
 **Output** [Link](http://127.0.0.1:5500/ineuron%20website/index.html)<br><br>
