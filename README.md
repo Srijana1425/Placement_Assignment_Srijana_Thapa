@@ -9,7 +9,7 @@
 **Output** [Link](http://127.0.0.1:5500/Weekly%20details/index.html)<br><br>
 
 **Q7**Simple music player<br>
-**Code** [Link](https://github.com/Srijana1425/Placement_Assignment_Srijana_Thapa/blob/main/html/resume/index.html)<br>
+**Code** [Link](https://github.com/Srijana1425/Placement_Assignment_Srijana_Thapa/blob/main/html/simple%20Music%20player/index.html)<br>
 **Output** [Link](http://127.0.0.1:5500/simple%20Music%20player/index.html)<br><br>
 
 **Q10**Build Table <br>
