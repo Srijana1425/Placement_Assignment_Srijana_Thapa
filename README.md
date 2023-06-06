@@ -18,7 +18,7 @@
 **************************************************************************************
 ## CSS<br>
 **Q8** build Periodic table <br>
-**Code** [Link](https://github.com/Srijana1425/Placement_Assignment_Srijana_Thapa/blob/main/html/resume/index.html)<br>
+**Code** [Link](https://github.com/Srijana1425/Placement_Assignment_Srijana_Thapa/blob/main/css/Periodic%20Table/index.html)<br>
 **Output** [Link](http://127.0.0.1:5500/Periodic%20Table/index.html)<br><br>
 
 **Q9**layout using grid or flex <br>
